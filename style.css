@@ -2,8 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background :url('https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg') no-repeat center center fixed;
    background-size: cover;
-    margin: 0;
-    padding: 0;
+    
     background-color: #f4f4f4;
 }
 
@@ -16,7 +15,6 @@ header {
 header nav ul {
     display: flex;
     justify-content: flex-end;
-    padding: 0;
     text-align: center;
 }
 
@@ -34,7 +32,7 @@ header nav ul li a {
     background: #9e8b65;
     color: white;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 section {
